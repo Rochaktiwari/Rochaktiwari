@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rochak Tiwari</h1>
-<h3 align="center">A passionate Computer Science student specializing in programming and data structures</h3>
+<h2 align="center">Aspiring Software Engineer specializing in programming and data structures.</h2>
+<h3 align="center">I create efficient, real-world software solutions using C, C++, Java, and Python. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochaktiwari&label=Profile%20views&color=0e75b6&style=flat" alt="rochaktiwari" /> </p>
 
